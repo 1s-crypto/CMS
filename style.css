@@ -44,11 +44,11 @@ body {
   justify-content: center;
   color: white;
   font-weight: 800;
-  border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
+  border-radius: 10px;
 }
 
 .nav-title {
@@ -127,11 +127,11 @@ li {
   font-weight: bold;
   outline: none;
   border: none;
-  border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
+  border-radius: 10px;
 }
 
 .hero-buttons button:not(:last-child) {
@@ -205,11 +205,11 @@ li {
   width: max-content;
   padding: 0.4rem;
   color: blue;
-  border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
+  border-radius: 10px;
   font-weight: bold;
 }
 
@@ -238,11 +238,11 @@ li {
   background: white;
   padding: 1.3rem;
   min-height: 28vh;
-  border-radius: 15px;
   -webkit-border-radius: 15px;
   -moz-border-radius: 15px;
   -ms-border-radius: 15px;
   -o-border-radius: 15px;
+  border-radius: 15px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -258,11 +258,11 @@ li {
   width: max-content;
   padding: 0.5rem;
   font-size: 1.5rem;
-  border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
+  border-radius: 10px;
 }
 
 .bell-icon {
@@ -270,11 +270,11 @@ li {
   width: max-content;
   padding: 0.5rem;
   font-size: 1.5rem;
-  border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
+  border-radius: 10px;
 }
 
 .check-icon {
@@ -282,11 +282,11 @@ li {
   width: max-content;
   padding: 0.5rem;
   font-size: 1.5rem;
-  border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
+  border-radius: 10px;
 }
 
 .school-icon {
@@ -294,9 +294,9 @@ li {
   width: max-content;
   padding: 0.5rem;
   font-size: 1.5rem;
-  border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
+  border-radius: 10px;
 }
